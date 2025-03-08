@@ -5,6 +5,8 @@ public class userLoginAccount {
     private String username;
     private String password;
     private String email;
+    private UserBankAccount userBankAccount;
+
 
     // constructor
     public userLoginAccount(String username, String password, String email){
@@ -17,6 +19,7 @@ public class userLoginAccount {
     public void setUsername(String username){this.username = username;}
     public void setPassword(String password){this.password = password;}
     public void setEmail(String email){this.email = password;}
+    public void setUserBankAccount(UserBankAccount userBankAccount){ this.userBankAccount = userBankAccount; }
 
     // getter
     public String getUsername(){return this.username;}
