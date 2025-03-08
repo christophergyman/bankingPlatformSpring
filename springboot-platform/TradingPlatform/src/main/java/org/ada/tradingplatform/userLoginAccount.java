@@ -7,7 +7,6 @@ public class userLoginAccount {
     private String email;
     private UserBankAccount userBankAccount;
 
-
     // constructor
     public userLoginAccount(String username, String password, String email){
         this.username = username;
