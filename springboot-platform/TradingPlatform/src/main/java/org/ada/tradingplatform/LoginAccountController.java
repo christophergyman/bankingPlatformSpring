@@ -25,5 +25,4 @@ public class LoginAccountController{
     public String AccountEmailUpdate() {
         return String.format("tester");
     }
-
 }

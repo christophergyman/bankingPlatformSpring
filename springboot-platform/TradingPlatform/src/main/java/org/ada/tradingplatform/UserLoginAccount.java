@@ -1,6 +1,6 @@
 package org.ada.tradingplatform;
 
-public class userLoginAccount {
+public class UserLoginAccount {
     // variables
     private String username;
     private String password;
@@ -8,7 +8,7 @@ public class userLoginAccount {
     private UserBankAccount userBankAccount;
 
     // constructor
-    public userLoginAccount(String username, String password, String email){
+    public UserLoginAccount(String username, String password, String email){
         this.username = username;
         this.password = password;
         this.email = email;
