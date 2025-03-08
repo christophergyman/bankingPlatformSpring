@@ -1,4 +1,4 @@
-package org.ada.tradingplatform;
+package org.ada.classes;
 import java.time.LocalDateTime;
 
 public class UserBankAccount {

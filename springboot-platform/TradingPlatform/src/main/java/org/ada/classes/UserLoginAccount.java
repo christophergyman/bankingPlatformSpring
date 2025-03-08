@@ -1,4 +1,4 @@
-package org.ada.tradingplatform;
+package org.ada.classes;
 
 public class UserLoginAccount {
     // variables
